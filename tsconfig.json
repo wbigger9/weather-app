@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "module": "es6",
+      "target": "ES6",
+      "allowJs": true,
+      "forceConsistentCasingInFileNames": true,
+      "noImplicitAny": true,
+      "strict": true
+    },
+    "include": ["*.ts"],
+    "exclude": ["./dist/"]
+  }
+  
